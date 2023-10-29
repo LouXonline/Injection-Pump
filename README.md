@@ -3,7 +3,7 @@ This is the source code used for the analysis of an injection pump inside of a 6
 
 **University:** Instituto Superior Técnico, Universidade de Lisboa
 
-**Students:** Lourenço Gouveia Faria
-          Paulo Aléxis Campos
-          Mariana Pires
-          Tiago Clamote
+**Students:** Lourenço Gouveia Faria;
+          Paulo Aléxis Campos;
+          Mariana Pires;
+          Tiago Clamote.
