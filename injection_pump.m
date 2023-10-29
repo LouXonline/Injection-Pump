@@ -300,7 +300,7 @@ mercury_density = 133.322368;
 
 local_pressure = mercury_density * 767;
 
-static_vector = [1 2 3 4 5 6 7 8 9 10 12 14 16 20 24 28];
+static_vector = [0 1 2 3 4 5 6 7 8 9 10 12 14 16 20 24];
 
 data_vec = ["data\_35\_1\_1"
             "data\_35\_1\_2"
